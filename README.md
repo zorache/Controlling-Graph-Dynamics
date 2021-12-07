@@ -9,7 +9,9 @@ This project contains an implementation of the SEIR framework of epidemic spread
  
 
 To train the GNN
+
 `python train.py`
 
 To run heuristic baselines
-`python baselines.py`
+
+`python baseline.py`
